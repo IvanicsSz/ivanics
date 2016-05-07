@@ -1,3 +1,5 @@
 #!/usr/bin/env python
-Print ("hello world")
-Print ("first try")
+import random
+
+for i in range(5):
+    print(random.random())
